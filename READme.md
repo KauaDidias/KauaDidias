@@ -7,3 +7,4 @@
 
 ## Quem sou eu?
 Eae, de boa? Me chamo Kauã Dias e atualmente estou aprendendo a programar em Java!
+Abaixo você pode ver algum dos meus projetos e estudos
