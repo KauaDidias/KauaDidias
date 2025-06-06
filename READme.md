@@ -1,5 +1,4 @@
 
-![snake gif](https://github.com/KauaDidias/KauaDidias/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -11,3 +10,10 @@
   
 Eae, de boa? Me chamo Kauã Dias e atualmente estou aprendendo a programar em Java!
 Abaixo você pode ver algum dos meus projetos e estudos
+
+
+![Snake animation](https://github.com/KauaDidias/KauaDidias/blob/output/github-contribution-grid-snake.svg)
+
+
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=KauaDidias&repo=KauaDidias&theme-react)](https://github.com/KauaDidias/KauaDidias)
