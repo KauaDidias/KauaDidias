@@ -12,8 +12,4 @@ Eae, de boa? Me chamo Kauã Dias e atualmente estou aprendendo a programar em Ja
 Abaixo você pode ver algum dos meus projetos e estudos
 
 
-![Snake animation](https://github.com/KauaDidias/KauaDidias/blob/output/github-contribution-grid-snake.svg)
 
-
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=KauaDidias&repo=KauaDidias&theme-react)](https://github.com/KauaDidias/KauaDidias)
